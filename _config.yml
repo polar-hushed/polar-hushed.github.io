@@ -10,7 +10,7 @@ user_description: I\'m a nomad Software Engineer, always searching for the next 
 user_title: CSE Undergrad.
 email: kumarm1642@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  polar-hushed
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
